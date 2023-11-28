@@ -1,5 +1,5 @@
 import assert from 'assert';
-import SalonBooking from '../salon-booking.js';
+import SalonBooking from '../services/salon-booking.js';
 import pgPromise from 'pg-promise';
 
 // TODO configure this to work.
