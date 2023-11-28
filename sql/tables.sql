@@ -6,7 +6,6 @@ CREATE TABLE client (
     first_name VARCHAR(255),
     last_name VARCHAR(255),
     phone_number VARCHAR(20),
-    treatment VARCHAR(255)
 );
 
 -- Stylist table
